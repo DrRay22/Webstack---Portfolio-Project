@@ -1,6 +1,6 @@
 # Webstack - Portfolio Project
 
-# Getting Started with BookieApp
+# BookieApp
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
